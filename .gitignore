@@ -1,0 +1,35 @@
+﻿# Root .gitignore for Verified Credits Full-Stack Project
+
+# Environment variables (never commit real secrets)
+.env
+.env.local
+.env*.local
+!.env.example
+!.env.local.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+env/
+venv/
+.venv/
+.pytest_cache/
+*.egg-info/
+
+# Next.js / Node
+node_modules/
+.next/
+out/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

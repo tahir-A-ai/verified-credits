@@ -1,0 +1,11 @@
+﻿Company,Industry,Address,BBB,Phone,Website,Estimated Revenue,Email
+Apex Solutions,Software,"100 Congress Ave, Austin, TX",A+,(512) 555-0144,https://www.google.com,$2.5M,contact@google.com
+CloudPeak Systems,Cloud Services,"500 West 2nd St, Austin, TX",A,(512) 555-0199,https://www.github.com,$5.0M,support@github.com
+Ghost Lead Enterprises,Marketing,"Austin, TX",N/A,(512) 555-0188,https://www.wikipedia.org,N/A,N/A
+Syntax Error Tech,Design,"San Jose, CA",B,(408) 555-0123,https://www.wikipedia.org,$500k,broken-email-format
+Fake Mailbox Corp,Consulting,"New York, NY",A-,(212) 555-0177,https://www.wikipedia.org,$1.2M,user@tempmail.com
+Unreachable Domain LLC,Logistics,"Chicago, IL",N/A,(312) 555-0133,https://this-domain-does-not-exist-abcxyz123.com,$800k,hello@nonexistent-domain-test12345.com
+Short Phone Inc,Finance,"Dallas, TX",A,555-01,https://www.wikipedia.org,$3.0M,finance@google.com
+Missing Phone Group,Legal,"Boston, MA",N/A,N/A,https://www.wikipedia.org,N/A,legal@google.com
+Dead Website Co,Retail,"Seattle, WA",B+,(206) 555-0166,https://en.wikipedia.org/wiki/ThisPageDefinitelyDoesNotExist_Xyz123,$1.5M,info@google.com
+Empty Profile LLC,Construction,"Austin, TX",N/A,N/A,N/A,N/A,N/A
